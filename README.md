@@ -69,9 +69,6 @@ To install **My-QR-COOLBOOY**, use pip, the Python package manager:
 
 2️⃣ My-QR-COOLBOOY -h
 
-## Example Command Use the following command to create a QR Code ⬇️⬇️⬇️⬇️⬇️
+Example Command Use the following command to create a QR Code ⬇️⬇️⬇️⬇️⬇️
 
-## 01 My-QR-COOLBOOY --data "https://www.instagram.com/sl_android_official" --logo "7e666724da007c0480cd476bf91524.webp" --frame_color "#FF00FF" --qr_color "#000000" --bg_color "#006400" --text "SL Android Razor_Kenway (INSTAGRAM)" --text_color "#237789"
-
-
-# My-QR-COOLBOOY
+01 My-QR-COOLBOOY --data "https://www.instagram.com/sl_android_official" --logo "7e666724da007c0480cd476bf91524.webp" --frame_color "#FF00FF" --qr_color "#000000" --bg_color "#006400" --text "SL Android Razor_Kenway (INSTAGRAM)" --text_color "#237789"
